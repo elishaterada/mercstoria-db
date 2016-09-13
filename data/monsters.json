@@ -1,0 +1,163 @@
+[
+  {
+    "name": "メリギール",
+    "element": "water",
+    "element": "water",
+    "reach": 90,
+    "range": 140,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "ヴィンデール",
+    "element": "water",
+    "reach": 115,
+    "range": 150,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "セネガルガ",
+    "element": "water",
+    "reach": 70,
+    "range": 140,
+    "combo": 4,
+    "gate": true
+  },
+  {
+    "name": "アンキロクロス",
+    "element": "water",
+    "reach": 40,
+    "range": 80,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ガラパゴシア",
+    "element": "water",
+    "reach": 65,
+    "range": 130,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "フィーラーポポ",
+    "element": "water",
+    "reach": 60,
+    "range": 140,
+    "combo": 4,
+    "gate": true
+  },
+  {
+    "name": "オルガウス",
+    "element": "water",
+    "reach": 75,
+    "range": 145,
+    "combo": 4,
+    "gate": true
+  },
+  {
+    "name": "ディンプシオン",
+    "element": "water",
+    "reach": 90,
+    "range": 140,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "モグマグミ",
+    "element": "water",
+    "reach": 70,
+    "range": 110,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "ギロスター",
+    "element": "water",
+    "reach": 50,
+    "range": 110,
+    "combo": 2,
+    "gate": true
+  },
+  {
+    "name": "ブリザードドラゴン",
+    "element": "water",
+    "reach": 80,
+    "range": 120,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ロングスパイニー",
+    "element": "water",
+    "reach": 80,
+    "range": 120,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "アウリエル",
+    "element": "water",
+    "reach": 35,
+    "range": 70,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ヤミミズク",
+    "element": "water",
+    "reach": 45,
+    "range": 125,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "メッゾドラニカ",
+    "element": "water",
+    "reach": 60,
+    "range": 140,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "シックル",
+    "element": "water",
+    "reach": 40,
+    "range": 60,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "フェンリク",
+    "element": "water",
+    "reach": 50,
+    "range": 110,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ワオリオ",
+    "element": "water",
+    "reach": 40,
+    "range": 60,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "アンデット",
+    "element": "water",
+    "reach": 30,
+    "range": 45,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "フィーラー",
+    "element": "water",
+    "reach": 60,
+    "range": 90,
+    "combo": 0,
+    "gate": true
+  }
+]
