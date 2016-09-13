@@ -29,3 +29,11 @@ Since it's free service GitHub does not promise any uptime.
 
 CDN上でアクセスされるので制限などはなくご利用できます。
 無料のCDNなのでアップタイムはGitHubの方で保障されていません。
+
+---
+
+## Data Sources
+
+* Merc Storia official game app
+* [https://xn--cckza4aydug8bd3l.gamerch.com/]()
+* [https://github.com/rainspr/merc]()
