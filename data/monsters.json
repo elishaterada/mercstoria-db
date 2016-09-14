@@ -1,7 +1,166 @@
 [
   {
+    "name": "マギカルシファ",
+    "element": "fire",
+    "reach": 90,
+    "range": 150,
+    "combo": 2,
+    "gate": true
+  },
+  {
+    "name": "ヴォイシア",
+    "element": "fire",
+    "reach": 80,
+    "range": 140,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "ポッソ",
+    "element": "fire",
+    "reach": 120,
+    "range": 145,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "マグナガルダ",
+    "element": "fire",
+    "reach": 60,
+    "range": 145,
+    "combo": 2,
+    "gate": true
+  },
+  {
+    "name": "アナグラー",
+    "element": "fire",
+    "reach": 45,
+    "range": 145,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "フレアドラゴン",
+    "element": "fire",
+    "reach": 50,
+    "range": 150,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ヒポポターシャ",
+    "element": "fire",
+    "reach": 75,
+    "range": 145,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ジャバウォック",
+    "element": "fire",
+    "reach": 80,
+    "range": 120,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "フレイムドラゴン",
+    "element": "fire",
+    "reach": 80,
+    "range": 120,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ウルキオン",
+    "element": "fire",
+    "reach": 50,
+    "range": 130,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "ニグレット",
+    "element": "fire",
+    "reach": 60,
+    "range": 120,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "リフティー",
+    "element": "fire",
+    "reach": 60,
+    "range": 120,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ゴーレム",
+    "element": "fire",
+    "reach": 40,
+    "range": 100,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "フォケイロン",
+    "element": "fire",
+    "reach": 40,
+    "range": 70,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "フードリィードール",
+    "element": "fire",
+    "reach": 40,
+    "range": 125,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ブライトサニー",
+    "element": "fire",
+    "reach": 75,
+    "range": 150,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ピエルフル",
+    "element": "fire",
+    "reach": 40,
+    "range": 100,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "マグニーガ",
+    "element": "fire",
+    "reach": 30,
+    "range": 50,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "フランベア",
+    "element": "fire",
+    "reach": 30,
+    "range": 45,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ノーズホーン",
+    "element": "fire",
+    "reach": 30,
+    "range": 45,
+    "combo": 0,
+    "gate": true
+  },
+  {
     "name": "メリギール",
-    "element": "water",
     "element": "water",
     "reach": 90,
     "range": 140,
@@ -155,6 +314,430 @@
   {
     "name": "フィーラー",
     "element": "water",
+    "reach": 60,
+    "range": 90,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "バロンシャロン",
+    "element": "wind",
+    "reach": 55,
+    "range": 145,
+    "combo": 4,
+    "gate": true
+  },
+  {
+    "name": "フォレストトン",
+    "element": "wind",
+    "reach": 90,
+    "range": 135,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "ダイオドルクス",
+    "element": "wind",
+    "reach": 110,
+    "range": 140,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "エスターヴァニ",
+    "element": "wind",
+    "reach": 75,
+    "range": 135,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "ヤンシェンメイ",
+    "element": "wind",
+    "reach": 45,
+    "range": 135,
+    "combo": 2,
+    "gate": true
+  },
+  {
+    "name": "バルカール",
+    "element": "wind",
+    "reach": 40,
+    "range": 70,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "オオマガツフウジャ",
+    "element": "wind",
+    "reach": 80,
+    "range": 145,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "アースドラゴン",
+    "element": "wind",
+    "reach": 50,
+    "range": 150,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "チュラマダ",
+    "element": "wind",
+    "reach": 90,
+    "range": 140,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ピッカー",
+    "element": "wind",
+    "reach": 30,
+    "range": 45,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "スノロール",
+    "element": "wind",
+    "reach": 60,
+    "range": 140,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "アグラム",
+    "element": "wind",
+    "reach": 30,
+    "range": 60,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ホロジア",
+    "element": "wind",
+    "reach": 40,
+    "range": 75,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ノーズハンマー",
+    "element": "wind",
+    "reach": 40,
+    "range": 60,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "エトアース",
+    "element": "wind",
+    "reach": 40,
+    "range": 90,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "カカル－",
+    "element": "wind",
+    "reach": 70,
+    "range": 100,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ローリィ",
+    "element": "wind",
+    "reach": 30,
+    "range": 45,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "カウボルタス",
+    "element": "light",
+    "reach": 90,
+    "range": 135,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "クイーンスピッツ",
+    "element": "light",
+    "reach": 50,
+    "range": 75,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "ボルキロネッラ",
+    "element": "light",
+    "reach": 80,
+    "range": 135,
+    "combo": 2,
+    "gate": true
+  },
+  {
+    "name": "ペタルデス",
+    "element": "light",
+    "reach": 110,
+    "range": 150,
+    "combo": 4,
+    "gate": true
+  },
+  {
+    "name": "ファーブニール",
+    "element": "light",
+    "reach": 80,
+    "range": 120,
+    "combo": 5,
+    "gate": true
+  },
+  {
+    "name": "ティラミスタ",
+    "element": "light",
+    "reach": 70,
+    "range": 140,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "レオファントム",
+    "element": "light",
+    "reach": 75,
+    "range": 140,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "グラニアゼウス",
+    "element": "light",
+    "reach": 95,
+    "range": 145,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "マスターグリフォン",
+    "element": "light",
+    "reach": 60,
+    "range": 90,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ジュグラギ",
+    "element": "light",
+    "reach": 45,
+    "range": 135,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "シンフォウル",
+    "element": "light",
+    "reach": 50,
+    "range": 90,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "シューリー",
+    "element": "light",
+    "reach": 60,
+    "range": 140,
+    "combo": 4,
+    "gate": true
+  },
+  {
+    "name": "エンガゼル",
+    "element": "light",
+    "reach": 60,
+    "range": 90,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ダルルボルル",
+    "element": "light",
+    "reach": 65,
+    "range": 130,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "サウンダー",
+    "element": "light",
+    "reach": 60,
+    "range": 120,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "スパイラリ",
+    "element": "light",
+    "reach": 35,
+    "range": 70,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ドランシー",
+    "element": "light",
+    "reach": 40,
+    "range": 145,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "グリフォン",
+    "element": "light",
+    "reach": 40,
+    "range": 60,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "スピッツ",
+    "element": "light",
+    "reach": 30,
+    "range": 45,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "エニグマ",
+    "element": "dark",
+    "reach": 30,
+    "range": 50,
+    "combo": 5,
+    "gate": true
+  },
+  {
+    "name": "ウェルネシア",
+    "element": "dark",
+    "reach": 80,
+    "range": 140,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "ワイバーン",
+    "element": "dark",
+    "reach": 60,
+    "range": 90,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ネウルハイド",
+    "element": "dark",
+    "reach": 30,
+    "range": 70,
+    "combo": 2,
+    "gate": true
+  },
+  {
+    "name": "ウズラカズラ",
+    "element": "dark",
+    "reach": 65,
+    "range": 130,
+    "combo": 3,
+    "gate": true
+  },
+  {
+    "name": "ワルチューレ",
+    "element": "dark",
+    "reach": 60,
+    "range": 100,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "メルキオーガ",
+    "element": "dark",
+    "reach": 60,
+    "range": 140,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ユニルス",
+    "element": "dark",
+    "reach": 30,
+    "range": 45,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "クリカラ",
+    "element": "dark",
+    "reach": 40,
+    "range": 80,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ミストロール",
+    "element": "dark",
+    "reach": 100,
+    "range": 140,
+    "combo": 4,
+    "gate": true
+  },
+  {
+    "name": "リミムー",
+    "element": "dark",
+    "reach": 30,
+    "range": 45,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "プロトクライド",
+    "element": "dark",
+    "reach": 45,
+    "range": 100,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ベノム",
+    "element": "dark",
+    "reach": 40,
+    "range": 60,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "ホーリーバイソン",
+    "element": "dark",
+    "reach": 45,
+    "range": 65,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "グロピオン",
+    "element": "dark",
+    "reach": 40,
+    "range": 60,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "クロウヴィス",
+    "element": "dark",
+    "reach": 60,
+    "range": 100,
+    "combo": 0,
+    "gate": true
+  },
+  {
+    "name": "スカンデ",
+    "element": "dark",
     "reach": 60,
     "range": 90,
     "combo": 0,
