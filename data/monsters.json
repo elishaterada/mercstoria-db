@@ -352,6 +352,14 @@
     "gate": true
   },
   {
+    "name": "ホイッパー",
+    "element": "wind",
+    "reach": 60,
+    "range": 90,
+    "combo": 3,
+    "gate": true
+  },
+  {
     "name": "ヤンシェンメイ",
     "element": "wind",
     "reach": 45,
